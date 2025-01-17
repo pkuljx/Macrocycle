@@ -1,0 +1,4 @@
+step1. parse_molecule_ring.py
+step2. get_pdb_microcycle.py
+step3. get_microcycle_nearby.py
+step4. append_ligand_info.py

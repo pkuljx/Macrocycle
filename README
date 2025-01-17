@@ -1,0 +1,8 @@
+microcyle: max ring size>=8
+nearby: 10 angstrom
+
+microcycle-ligands-pdbs.csv: overview of microcycle ligands and their PDB codes
+microcycle-ligands-pdbs-nearby_info.csv: detailed information for each microcycle ligand in each chain of each PDB 
+
+the nearby residues of each ligand are stored in the folder ligand_nearby.
+The file is named as ligandID_pdbCode_chainID.
